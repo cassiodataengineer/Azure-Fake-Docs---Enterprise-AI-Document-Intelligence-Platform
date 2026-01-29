@@ -73,7 +73,7 @@ src/
 
 ## 📄 Documentação Técnica
 
-Para uma visão aprofundada sobre as decisões de design, diagramas e detalhes de implementação, consulte a [Documentação Técnica](./docs/ARCHITECTURE.md).
+Para uma visão aprofundada sobre as decisões de design, diagramas e detalhes de implementação, consulte a [Documentação Técnica]([./docs/ARCHITECTURE.md](https://github.com/cassiodataengineer/Azure-Fake-Docs---Enterprise-AI-Document-Intelligence-Platform/blob/main/ARCHITECTURE.md) 
 
 ---
 Projeto desenvolvido como parte do desafio de projeto da **DIO**.
